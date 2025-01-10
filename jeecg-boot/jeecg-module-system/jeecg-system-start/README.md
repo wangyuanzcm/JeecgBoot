@@ -10,3 +10,6 @@
 # 微服务启动项目在这里
 - 项目： jeecg-server-cloud/jeecg-system-cloud-start
 - 启动类：jeecg-server-cloud/jeecg-system-cloud-start/src/main/java/org/jeecg/JeecgSystemCloudApplication.java
+
+
+启动方法： PS C:\Users\王元\Documents\GitHub\wboot\jeecg-boot\jeecg-module-system\jeecg-system-start> mvn spring-boot:run
